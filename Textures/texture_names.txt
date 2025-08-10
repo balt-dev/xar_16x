@@ -1,0 +1,40 @@
+ammo_gun0           _ Ammo/gun0.png
+ammo_gun0_grey      _ Ammo/grey_gun0.png
+ammo_gun1           _ Ammo/gun1.png
+ammo_gun1_grey      _ Ammo/grey_gun1.png
+ammo_gun2           _ Ammo/gun2.png
+ammo_gun2_grey      _ Ammo/grey_gun2.png
+ammo_gun3           _ Ammo/gun3.png
+ammo_gun3_grey      _ Ammo/grey_gun3.png
+ammo_gun4           _ Ammo/gun4.png
+ammo_gun4_grey      _ Ammo/grey_gun4.png
+ammo_gun5           _ Ammo/gun5.png
+ammo_gun5_grey      _ Ammo/grey_gun5.png
+ammo_gun6           _ Ammo/gun6.png
+ammo_gun6_grey      _ Ammo/grey_gun6.png
+ammo_gun7           _ Ammo/gun7.png
+ammo_gun7_grey      _ Ammo/grey_gun7.png
+ammo_gun8           _ Ammo/gun8.png
+ammo_gun8_grey      _ Ammo/grey_gun8.png
+ammo_gun9           _ Ammo/gun9.png
+ammo_gun9_grey      _ Ammo/grey_gun9.png
+set ammo_gun0 nearest_neighbor true
+set ammo_gun0_grey nearest_neighbor true
+set ammo_gun1 nearest_neighbor true
+set ammo_gun1_grey nearest_neighbor true
+set ammo_gun2 nearest_neighbor true
+set ammo_gun2_grey nearest_neighbor true
+set ammo_gun3 nearest_neighbor true
+set ammo_gun3_grey nearest_neighbor true
+set ammo_gun4 nearest_neighbor true
+set ammo_gun4_grey nearest_neighbor true
+set ammo_gun5 nearest_neighbor true
+set ammo_gun5_grey nearest_neighbor true
+set ammo_gun6 nearest_neighbor true
+set ammo_gun6_grey nearest_neighbor true
+set ammo_gun7 nearest_neighbor true
+set ammo_gun7_grey nearest_neighbor true
+set ammo_gun8 nearest_neighbor true
+set ammo_gun8_grey nearest_neighbor true
+set ammo_gun9 nearest_neighbor true
+set ammo_gun9_grey nearest_neighbor true
