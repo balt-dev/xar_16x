@@ -1,3 +1,75 @@
+###############################################################################
+#
+#                        TEXTURES THAT GO ON THE HUD
+#
+###############################################################################
+
+# Crosshair.
+crosshair                a crosshair.png
+
+# Icons.
+icon_shield                 _ Icons/icon_shield.png
+icon_shield_grey            _ Icons/icon_shield_grey.png
+icon_health                 _ Icons/icon_health.png
+icon_health_blue            _ Icons/icon_health_blue.png
+icon_health_dark_blue       _ Icons/icon_health_dark_blue.png
+icon_health_red             _ Icons/icon_health_red.png
+icon_armor                  _ Icons/icon_armor.png
+icon_armor_grey             _ Icons/icon_armor_grey.png
+icon_armor_two              _ Icons/icon_armor_two.png
+icon_armor_three            _ Icons/icon_armor_three.png
+icon_gold                   _ Icons/icon_gold.png
+icon_markers                _ Icons/icon_markers.png
+icon_rocket                 _ Icons/icon_rocket.png
+icon_brake                  _ Icons/icon_brake.png
+icon_xp                     _ Icons/icon_xp.png
+icon_xp_back                _ Icons/icon_xp_back.png
+icon_xp_5x                  _ Icons/icon_xp_5x.png
+icon_hive_attack_bar        _ Icons/icon_hive_attack_bar.png
+icon_hive_attack_bar_back   _ Icons/icon_hive_attack_bar_back.png
+icon_damage_5x              _ Icons/icon_damage_5x.png
+icon_invun                  _ Icons/icon_invun.png
+icon_hardcore               _ Icons/icon_hardcore.png
+icon_pacifist               _ Icons/icon_pacifist.png
+icon_skull                  _ Icons/skull_and_cross.png
+icon_beacon                 _ Icons/icon_beacon.png
+icon_save                   _ Icons/icon_save.png
+icon_arcade                 _ Icons/icon_arcade.png
+icon_shrink_warning         _ Icons/icon_shrink_warning.png
+icon_yin_yang_warning       a Icons/icon_yin_yang_small.png
+
+# Difficulty icons.
+icon_easy_2               _ Icons/Difficulty/icon_easy_2.png
+icon_easy_2_once          _ Icons/Difficulty/icon_easy_2_once.png
+icon_easy_1               _ Icons/Difficulty/icon_easy_1.png
+icon_easy_1_once          _ Icons/Difficulty/icon_easy_1_once.png
+icon_normal               _ Icons/Difficulty/icon_normal.png
+icon_normal_once          _ Icons/Difficulty/icon_normal_once.png
+icon_hard_1               _ Icons/Difficulty/icon_hard_1.png
+icon_hard_1_once          _ Icons/Difficulty/icon_hard_1_once.png
+icon_hard_2               _ Icons/Difficulty/icon_hard_2.png
+icon_hard_2_once          _ Icons/Difficulty/icon_hard_2_once.png
+icon_hard_3               _ Icons/Difficulty/icon_hard_3.png
+icon_hard_3_once          _ Icons/Difficulty/icon_hard_3_once.png
+icon_hard_4               _ Icons/Difficulty/icon_hard_4.png
+icon_hard_4_once          _ Icons/Difficulty/icon_hard_4_once.png
+icon_custom               _ Icons/Difficulty/icon_custom.png
+
+icon_quasar_drive         _ Icons/icon_quasar_drive.png
+
+# Engine related icons.
+icon_db_1                 _ Icons/Engine/db_1.png
+icon_db_2                 _ Icons/Engine/db_2.png
+icon_db_1_and_2           _ Icons/Engine/db_1_and_2.png
+
+###############################################################################
+#
+#                TEXTURES FOR BOTH THE HUD AND BASIC ENTITIES
+#
+###############################################################################
+
+# Ammo.
+# (The grey ones are only used in the HUD).
 ammo_gun0           _ Ammo/gun0.png
 ammo_gun0_grey      _ Ammo/grey_gun0.png
 ammo_gun1           _ Ammo/gun1.png
@@ -18,3 +90,601 @@ ammo_gun8           _ Ammo/gun8.png
 ammo_gun8_grey      _ Ammo/grey_gun8.png
 ammo_gun9           _ Ammo/gun9.png
 ammo_gun9_grey      _ Ammo/grey_gun9.png
+
+# Entity + Icon.
+ent_credits            _ BEnts/ent_credits.png
+key_yellow             _ BEnts/key_yellow.png
+key_green              _ BEnts/key_green.png
+key_blue               _ BEnts/key_blue.png
+key_green              _ BEnts/key_green.png
+key_laser_genesis      _ BEnts/key_laser_genesis.png
+key_dans_house         _ BEnts/key_dans_house.png
+
+###############################################################################
+#
+#                       TEXSTURES FOR BASIC ENTITIES
+#
+###############################################################################
+
+# Basic entities.
+shield                 _ BEnts/ent_shield.png
+health_10p             _ BEnts/ent_health10%.png
+health_25p             _ BEnts/ent_health25%.png
+health_100p            _ BEnts/ent_health100%.png
+health_200p            _ BEnts/ent_health200%.png
+health_100p_armor_100p _ BEnts/ent_health100%armor100%.png
+health_200p_armor_100p _ BEnts/ent_health200%armor100%.png
+health_200p_armor_200p _ BEnts/ent_health200%armor200%.png
+health_mega            _ BEnts/ent_health_mega.png
+armor_5p               _ BEnts/ent_armor5%.png
+armor_10p              _ BEnts/ent_armor10%.png
+armor_100p(bronze)     _ BEnts/ent_armor100%(bronze).png
+armor_150p(silver)     _ BEnts/ent_armor150%(silver).png
+armor_200p(gold)       _ BEnts/ent_armor200%(gold).png
+armor_600p(ivory)      _ BEnts/ent_armor600%(ivory).png
+armor_1000p(jade)      _ BEnts/ent_armor1000%(jade).png
+spice                  _ BEnts/ent_spice.png
+gold_1                 _ BEnts/ent_gold1.png
+gold_2                 _ BEnts/ent_gold2.png
+gold_3                 _ BEnts/ent_gold3.png
+gold_5                 _ BEnts/ent_gold5.png
+gold_10                _ BEnts/ent_gold10.png
+gold_20                _ BEnts/ent_gold20.png
+gold_30                _ BEnts/ent_gold30.png
+gold_50                _ BEnts/ent_gold50.png
+gold_100               _ BEnts/ent_gold100.png
+gold_200               _ BEnts/ent_gold200.png
+gold_300               _ BEnts/ent_gold300.png
+gold_500               _ BEnts/ent_gold500.png
+gold_1000              _ BEnts/ent_gold1000.png
+xp                     _ BEnts/xp.png
+
+weapon_mode            _ Blocks/block_weapon_mode.png
+
+trophy                      _ BEnts/ent_trophy.png
+
+xp_5x_stacking              _ BEnts/ent_xp_5x_stacking.png
+damage_5x_stacking          _ BEnts/ent_damage_5x_stacking.png
+invun_stacking              _ BEnts/ent_invun_stacking.png
+
+bent_bookmark                   _ BEnts/ent_bookmark.png
+bent_bookmark_gray              _ BEnts/ent_bookmark_gray.png
+buy_marker_5                    _ BEnts/ent_buy_marker_5.png
+buy_marker_4                    _ BEnts/ent_buy_marker_4.png
+buy_marker_3                    _ BEnts/ent_buy_marker_3.png
+buy_marker_2                    _ BEnts/ent_buy_marker_2.png
+buy_marker_1                    _ BEnts/ent_buy_marker_1.png
+sell_station_common             _ BEnts/ent_sell_common.png
+sell_station_scarce             _ BEnts/ent_sell_scarce.png
+sell_station_rare               _ BEnts/ent_sell_rare.png
+buy_station                     _ BEnts/ent_buy.png
+black_market                    _ BEnts/ent_black_market.png
+upgrade_telekinesis             _ BEnts/ent_telekinesis_upgrade.png
+upgrade_station                 _ BEnts/ent_upgrade_station.png
+upgrade_station_max_ammo        _ BEnts/ent_upgrade_station_max_ammo.png
+buy_blue_key                    _ BEnts/ent_buy_blue_key.png
+pay_toll                        _ BEnts/ent_pay_toll.png
+bent_env_var_open_door          _ BEnts/ent_open_door.png
+bent_open_door_green            _ BEnts/ent_open_green_door.png
+sleep                           _ BEnts/ent_sleep.png
+buy_nuke_400                    _ BEnts/buy_nuke_400.png
+buy_nuke_300                    _ BEnts/buy_nuke_300.png
+buy_nuke_250                    _ BEnts/buy_nuke_250.png
+buy_nuke_200                    _ BEnts/buy_nuke_200.png
+buy_nuke_150                    _ BEnts/buy_nuke_150.png
+buy_nuke_100                    _ BEnts/buy_nuke_100.png
+skull                           _ Icons/skull_and_cross.png
+crossbones                      _ Icons/crossbones.png
+arcade_enter                    _ BEnts/ent_arcade_enter.png
+arcade_exit                     _ BEnts/ent_arcade_exit.png
+arcade_reset_door               _ BEnts/ent_arcade_reset_door.png
+cheap_common_markers            _ BEnts/ent_cheap_common_markers.png
+bent_unlock_stable_sing         _ BEnts/ent_unlock_stable_sing.png
+bent_black_hole_control_panel   _ BEnts/ent_black_hole_control_panel.png
+bent_quasar_control_panel       _ BEnts/ent_quasar_control_panel.png
+
+genesis_marker_short        _ BEnts/ent_genesis_marker_short.png
+genesis_marker_long         _ BEnts/ent_genesis_marker_long.png
+
+#################################################
+#    Other (may be used for moving entities)
+#################################################
+
+# Patterns.
+black                  _ Patterns/black.png
+black_white_border     _ Patterns/black_white_border.png
+green                  _ Patterns/green.png
+red                    _ Patterns/red.png
+dark_grey              _ Patterns/dark_grey.png
+striped_yellow         _ Patterns/striped_yellow.png
+striped_orange         _ Patterns/striped_orange.png
+striped_blue           _ Patterns/striped_blue.png
+striped_red            _ Patterns/striped_red.png
+striped_green          _ Patterns/striped_green.png
+striped_purple         _ Patterns/striped_purple.png
+striped_grey           _ Patterns/striped_grey.png
+pattern_diag_red       _ Patterns/pattern_diag_red.png
+pattern_diag_green     _ Patterns/pattern_diag_green.png
+pattern_diag_purple    _ Patterns/pattern_diag_purple.png
+pattern_diag_yellow    _ Patterns/pattern_diag_yellow.png
+blue                   _ Patterns/color_blue.png
+ice                    _ Patterns/ice.png
+emp                    _ Patterns/emp.png
+ment_poison            _ Patterns/ment_poison.png
+
+###############################################################################
+#
+#                         TEXTURES FOR PARTICLES
+#
+###############################################################################
+
+#Particles.
+particle_1   a   Particles/particle_1.png
+particle_2   a   Particles/particle_2.png
+
+###############################################################################
+#
+#                         TEXTURES FOR BLOCKS
+#
+###############################################################################
+
+# Blocks.
+block_concrete_border              _ Blocks/block_concrete_border.png
+block_concrete_x                   _ Blocks/block_concrete_x.png
+block_test                         _ Blocks/block_concrete_checker_dark.png
+block_concrete_checker_dark        _ Blocks/block_concrete_checker_dark.png
+block_concrete_checker_red         _ Blocks/block_concrete_checker_red.png
+block_concrete_checker_yellow      _ Blocks/block_concrete_checker_yellow.png
+block_concrete_checker_green       _ Blocks/block_concrete_checker_green.png
+block_concrete_checker_blue        _ Blocks/block_concrete_checker_blue.png
+block_concrete_checker_brown       _ Blocks/block_concrete_checker_brown.png
+block_concrete_checker_blue_yellow _ Blocks/block_concrete_checker_blue_yellow.png
+block_concrete_checker_blue_red    _ Blocks/block_concrete_checker_blue_red.png
+block_concrete_dark_dot            _ Blocks/block_concrete_dark_dot.png
+block_concrete_yellow              _ Blocks/block_concrete_yellow.png
+block_concrete_yellow_border       _ Blocks/block_concrete_yellow_border.png
+block_concrete_yellow_diag         _ Blocks/block_concrete_yellow_diag.png
+block_concrete_yellow_x            _ Blocks/block_concrete_yellow_x.png
+block_concrete_orange_border       _ Blocks/block_concrete_orange_border.png
+block_concrete_orange_diag         _ Blocks/block_concrete_orange_diag.png
+block_concrete_orange_x            _ Blocks/block_concrete_orange_x.png
+block_concrete_red_border          _ Blocks/block_concrete_red_border.png
+block_concrete_red_diag            _ Blocks/block_concrete_red_diag.png
+block_concrete_red_x               _ Blocks/block_concrete_red_x.png
+block_concrete_white_border        _ Blocks/block_concrete_white_border.png
+block_concrete_white_diag          _ Blocks/block_concrete_white_diag.png
+block_concrete_white_x             _ Blocks/block_concrete_white_x.png
+block_concrete_green               _ Blocks/block_concrete_green.png
+block_concrete_green_border        _ Blocks/block_concrete_green_border.png
+block_concrete_green_diag          _ Blocks/block_concrete_green_diag.png
+block_concrete_green_x             _ Blocks/block_concrete_green_x.png
+block_concrete_blue_border         _ Blocks/block_concrete_blue_border.png
+block_concrete_blue_diag           _ Blocks/block_concrete_blue_diag.png
+block_concrete_blue_x              _ Blocks/block_concrete_blue_x.png
+block_concrete_purple_border       _ Blocks/block_concrete_purple_border.png
+block_concrete_purple_x            _ Blocks/block_concrete_purple_x.png
+block_concrete_brown_border        _ Blocks/block_concrete_brown_border.png
+block_concrete_brown_yellow_border _ Blocks/block_concrete_brown_yellow_border.png
+block_concrete_brown_orange_border _ Blocks/block_concrete_brown_orange_border.png
+block_concrete_brown_red_border    _ Blocks/block_concrete_brown_red_border.png
+block_tutorial                     _ Blocks/block_tutorial.png
+block_dark_concrete_white_border   _ Blocks/block_dark_concrete_white_border.png
+block_dark_concrete_blue_border    _ Blocks/block_dark_concrete_blue_border.png
+block_dark_concrete_green_border   _ Blocks/block_dark_concrete_green_border.png
+block_dark_concrete_red_border     _ Blocks/block_dark_concrete_red_border.png
+block_dark_concrete_orange_border  _ Blocks/block_dark_concrete_orange_border.png
+block_dark_concrete_purple_border  _ Blocks/block_dark_concrete_purple_border.png
+block_black                        _ Blocks/block_black.png
+block_green_black_striped          _ Blocks/block_green_black_striped.png
+block_yellow_black_striped         _ Blocks/block_yellow_black_striped.png
+block_red_black_striped            _ Blocks/block_red_black_striped.png
+block_white_black_striped          _ Blocks/block_white_black_striped.png
+block_blue_block_striped           _ Blocks/block_blue_black_striped.png
+block_expander                     _ Blocks/block_expander.png
+block_stopper                      _ Blocks/block_stopper.png
+block_stopper2                     _ Blocks/block_stopper2.png
+block_one_way                      _ Blocks/block_one_way.png
+block_one_way_green                _ Blocks/block_one_way_green.png
+block_one_way_red                  _ Blocks/block_one_way_red.png
+block_in_only                      _ Blocks/block_in_only.png
+block_wrong_way                    _ Blocks/block_wrong_way.png
+block_door                         _ Blocks/block_door.png
+block_door_green                   _ Blocks/block_door_green.png
+block_toll_door                    _ Blocks/block_toll_door.png
+block_anti_plug                    _ Blocks/block_anti_plug.png
+block_info                         _ Blocks/block_info.png
+block_map                          _ Blocks/block_map.png
+block_light_blue_border            _ Blocks/block_light_blue_border.png
+block_blue_border                  _ Blocks/block_blue_border.png
+block_light_green_border           _ Blocks/block_light_green_border.png
+block_bright_green_border          _ Blocks/block_bright_green_border.png
+block_dark_green_border            _ Blocks/block_dark_green_border.png
+block_dark_green_x                 _ Blocks/block_dark_green_x.png
+block_blackberry_medium            _ Blocks/block_blackberry_medium.png
+block_blackberry_large             _ Blocks/block_blackberry_large.png
+block_raspberry                    _ Blocks/block_raspberry.png
+block_ying_pattern                 _ Blocks/block_ying_pattern.png
+block_ying2_pattern                _ Blocks/block_ying2_pattern.png
+block_high_voltage                 _ Blocks/block_high_voltage.png
+block_disco                        _ Blocks/block_disco.png
+block_white_box                    _ Blocks/block_white_box.png
+block_box_paper                    _ Blocks/block_box_paper.png
+block_box_cardboard                _ Blocks/block_box_cardboard.png
+block_box_steel                    _ Blocks/block_box_steel.png
+block_box_wood                     _ Blocks/block_box_wood.png
+block_deco1                        _ Blocks/block_deco1.png
+block_deco1_green1                 _ Blocks/block_deco1_green1.png
+block_deco1_green2                 _ Blocks/block_deco1_green2.png
+block_deco1_blue1                  _ Blocks/block_deco1_blue1.png
+block_deco1_purple1                _ Blocks/block_deco1_purple1.png
+block_deco1_purple2                _ Blocks/block_deco1_purple2.png
+block_deco1_yellow1                _ Blocks/block_deco1_yellow1.png
+block_mushroom                     _ Blocks/block_mushroom.png
+block_mushroom_blue                _ Blocks/block_mushroom_blue.png
+block_mushroom_black               _ Blocks/block_mushroom_black.png
+block_mushroom_yellow              _ Blocks/block_mushroom_yellow.png
+block_mushroom_red                 _ Blocks/block_mushroom_red.png
+block_toadstool                    _ Blocks/block_toadstool.png
+block_keiths                       _ Blocks/block_keiths.png
+block_belle_rosette                _ Blocks/block_belle_rosette.png
+block_happy_land                   _ Blocks/block_happy_land.png
+block_maze                         _ Blocks/block_maze.png
+block_concrete_red_green_border    _ Blocks/block_concrete_red_green_border.png
+block_infinity_green               _ Blocks/block_infinity_green.png
+block_infinity_yellow              _ Blocks/block_infinity_yellow.png
+block_infinity_red                 _ Blocks/block_infinity_red.png
+block_i1_green                     _ Blocks/block_i1_green.png
+block_i1_red                       _ Blocks/block_i1_red.png
+block_i2_green                     _ Blocks/block_i2_green.png
+block_i2_yellow                    _ Blocks/block_i2_yellow.png
+block_i2_red                       _ Blocks/block_i2_red.png
+block_i3_green                     _ Blocks/block_i3_green.png
+block_i3_yellow                    _ Blocks/block_i3_yellow.png
+#block_witch_red                    _ Blocks/block_witch_red.png
+
+block_pink                         _ Blocks/block_pink.png
+block_blue                         _ Blocks/block_blue.png
+block_rainbow                      _ Blocks/block_rainbow.png
+block_mylantis                     _ Blocks/block_mylantis.png
+block_concrete_red_0               _ Blocks/block_concrete_red_0.png
+block_concrete_red_1               _ Blocks/block_concrete_red_1.png
+block_lighthouse                   _ Blocks/block_lighthouse.png
+block_moon_alpha                   _ Blocks/Space/block_moon_alpha.png
+block_moon_beta                    _ Blocks/Space/block_moon_beta.png
+block_moon_gamma                   _ Blocks/Space/block_moon_gamma.png
+block_moon_tau                     _ Blocks/Space/block_moon_tau.png
+block_moon_tau_secret              _ Blocks/Space/block_moon_tau_secret.png
+block_moon_fire_rate               _ Blocks/Space/block_moon_fire_rate.png
+block_moon_ice                     _ Blocks/Space/block_moon_ice.png
+block_tau_caves                    _ Blocks/block_tau_caves.png
+block_mylantis_customs             _ Blocks/block_mylantis_customs.png
+block_laser_genesis                _ Blocks/block_laser_genesis.png
+block_laser_fort_small             _ Blocks/block_laser_fort_small.png
+block_oak_tree                     _ Blocks/block_oak_tree.png
+block_richmond                     _ Blocks/Town/block_richmond.png
+block_jericho                      _ Blocks/Town/block_jericho.png
+block_huntington                   _ Blocks/Town/block_huntington.png
+block_williston                    _ Blocks/Town/block_williston.png
+block_bristol                      _ Blocks/Town/block_bristol.png
+block_montreal                     _ Blocks/Town/block_montreal.png
+block_toronto                      _ Blocks/Town/block_toronto.png
+block_danville_above               _ Blocks/Town/block_danville_above.png
+block_danville_below               _ Blocks/Town/block_danville_below.png
+block_hinesburg                    _ Blocks/Town/block_hinesburg.png
+block_colchester                   _ Blocks/Town/block_colchester.png
+block_denver                       _ Blocks/Town/block_denver.png
+block_essex                        _ Blocks/Town/block_essex.png
+block_burlington                   _ Blocks/Town/block_burlington.png
+block_planet_small_minigun         _ Blocks/Space/block_planet_small_minigun.png
+block_planet_clay                  _ Blocks/Space/block_planet_clay.png
+block_gato_light_blue              _ Blocks/block_gato_light_blue.png
+block_gato_yellow                  _ Blocks/block_gato_yellow.png
+block_gato_green                   _ Blocks/block_gato_green.png
+block_gato_purple                  _ Blocks/block_gato_purple.png
+block_num_1                        _ Blocks/block_num_1.png
+block_num_2                        _ Blocks/block_num_2.png
+block_num_3                        _ Blocks/block_num_3.png
+block_num_4                        _ Blocks/block_num_4.png
+block_num_5                        _ Blocks/block_num_5.png
+block_num_6                        _ Blocks/block_num_6.png
+block_num_7                        _ Blocks/block_num_7.png
+block_num_8                        _ Blocks/block_num_8.png
+block_num_9                        _ Blocks/block_num_9.png
+block_num_0                        _ Blocks/block_num_0.png
+block_letter_a                     _ Blocks/block_letter_a.png
+block_letter_b                     _ Blocks/block_letter_b.png
+block_letter_c                     _ Blocks/block_letter_c.png
+block_letter_d                     _ Blocks/block_letter_d.png
+block_letter_e                     _ Blocks/block_letter_e.png
+block_letter_f                     _ Blocks/block_letter_f.png
+block_letter_g                     _ Blocks/block_letter_g.png
+block_letter_h                     _ Blocks/block_letter_h.png
+block_letter_i                     _ Blocks/block_letter_i.png
+block_letter_j                     _ Blocks/block_letter_j.png
+block_letter_k                     _ Blocks/block_letter_k.png
+block_letter_l                     _ Blocks/block_letter_l.png
+block_letter_m                     _ Blocks/block_letter_m.png
+block_letter_n                     _ Blocks/block_letter_n.png
+block_letter_o                     _ Blocks/block_letter_o.png
+block_letter_p                     _ Blocks/block_letter_p.png
+block_letter_q                     _ Blocks/block_letter_q.png
+block_letter_r                     _ Blocks/block_letter_r.png
+block_letter_s                     _ Blocks/block_letter_s.png
+block_letter_t                     _ Blocks/block_letter_t.png
+block_letter_u                     _ Blocks/block_letter_u.png
+block_letter_v                     _ Blocks/block_letter_v.png
+block_letter_w                     _ Blocks/block_letter_w.png
+block_letter_x                     _ Blocks/block_letter_x.png
+block_letter_y                     _ Blocks/block_letter_y.png
+block_letter_z                     _ Blocks/block_letter_z.png
+block_sponge_pure                  _ Blocks/block_sponge_pure.png
+block_sponge_alpha                 _ Blocks/block_sponge_alpha.png
+block_sponge_beta                  _ Blocks/block_sponge_beta.png
+block_sponge_deep                  _ Blocks/block_sponge_deep.png
+block_spiral                       _ Blocks/block_spiral.png
+block_omega                        _ Blocks/block_omega.png
+block_exit                         _ Blocks/block_exit.png
+block_ice_cube                     _ Blocks/block_ice_cube.png
+block_ice_cube_hard                _ Blocks/block_ice_cube_hard.png
+block_medium_gold_asteroid         _ Blocks/block_medium_gold_asteroid.png
+block_dollar                       _ Blocks/block_dollar.png
+block_cent                         _ Blocks/block_cent.png
+block_high_gold_asteroid           _ Blocks/block_high_gold_asteroid.png
+block_lockbox                      _ Blocks/block_lockbox.png
+block_lockbox_grand                _ Blocks/block_lockbox_grand.png
+block_sun                          _ Blocks/block_sun.png
+block_ammo                         _ Blocks/block_ammo.png
+block_hell                         _ Blocks/block_hell.png
+block_upgrade_station              _ BEnts/ent_upgrade_station.png
+
+block_bedroom                      _ Blocks/block_bedroom.png
+block_cube_1                       _ Blocks/block_cube_1.png
+block_you_are_here                 _ Blocks/block_you_are_here.png
+block_radioactive                  _ Blocks/block_radioactive.png
+block_tweedle_dum_air              _ Blocks/block_tweedle_dum_air.png
+block_blue_bubble                  _ Blocks/block_blue_bubble.png
+block_museum                       _ Blocks/block_museum.png
+block_tangerine                    _ Blocks/block_tangerine.png
+block_pumpkin                      _ Blocks/block_pumpkin.png
+block_marble_1                     _ Blocks/block_marble_1.png
+block_marble_2                     _ Blocks/block_marble_2.png
+block_marble_3                     _ Blocks/block_marble_3.png
+block_marble_4                     _ Blocks/block_marble_4.png
+block_weapon_mode                  _ Blocks/block_weapon_mode.png
+block_arcade_enter                 _ Blocks/block_arcade_enter.png
+block_arcade_exit                  _ Blocks/block_arcade_exit.png
+block_arcade_shut                  _ Blocks/block_arcade_shut.png
+block_red_heart_black_back         _ Blocks/block_red_heart_black_background.png
+block_iccc                         _ Blocks/block_iccc.png
+
+block_sponge                       _ Blocks/block_sponge.png
+
+block_key_yellow                   _ BEnts/key_yellow.png
+block_key_blue                     _ BEnts/key_blue.png
+block_key_green                    _ BEnts/key_green.png
+
+#Blocks with 0% or 100% alpha:
+block_glass                        a Blocks/block_glass.png
+
+block_dan_house_siding             _ Blocks/DanHouse/block_dan_house_siding.png
+block_dan_house_kitchen            _ Blocks/DanHouse/block_dan_house_kitchen.png
+block_dan_house_thin_wood_floor    _ Blocks/DanHouse/block_dan_house_thin_wood_floor.png
+block_dan_house_thick_wood_floor   _ Blocks/DanHouse/block_dan_house_thick_wood_floor.png
+block_dan_house_window             _ Blocks/DanHouse/block_dan_house_window.png
+block_dan_house_red_tile           _ Blocks/DanHouse/block_dan_house_red_tile.png
+block_dan_house_darkroom           _ Blocks/DanHouse/block_dan_house_darkroom.png
+block_dan_house_bath_down          _ Blocks/DanHouse/block_dan_house_bath_down.png
+block_dan_house_dan_room           _ Blocks/DanHouse/block_dan_house_dan_room.png
+block_dan_house_hall               _ Blocks/DanHouse/block_dan_house_hall.png
+block_dan_house_library            _ Blocks/DanHouse/block_dan_house_library.png
+block_dan_house_bath_up            _ Blocks/DanHouse/block_dan_house_bath_up.png
+block_dan_house_furnace            _ Blocks/DanHouse/block_dan_house_furnace.png
+block_dan_house_ceiling            _ Blocks/DanHouse/block_dan_house_ceiling.png
+block_dan_house_jungle_room        _ Blocks/DanHouse/block_dan_house_jungle_room.png
+block_dan_house_joan               _ Blocks/DanHouse/block_dan_house_joan.png
+block_dan_house_bruce              _ Blocks/DanHouse/block_dan_house_bruce.png
+#
+set block_dan_house_siding              nearest_neighbor true
+set block_dan_house_kitchen             nearest_neighbor true
+set block_dan_house_thin_wood_floor     nearest_neighbor true
+set block_dan_house_thick_wood_floor    nearest_neighbor true
+set block_dan_house_window              nearest_neighbor true
+set block_dan_house_red_tile            nearest_neighbor true
+set block_dan_house_ceiling             nearest_neighbor true
+set block_dan_house_darkroom            nearest_neighbor true
+set block_dan_house_bath_down           nearest_neighbor true
+set block_dan_house_dan_room            nearest_neighbor true
+set block_dan_house_jungle_room         nearest_neighbor true
+set block_dan_house_hall                nearest_neighbor true
+set block_dan_house_library             nearest_neighbor true
+set block_dan_house_bath_up             nearest_neighbor true
+set block_dan_house_joan                nearest_neighbor true
+set block_dan_house_bruce               nearest_neighbor true
+set block_dan_house_furnace             nearest_neighbor true
+
+inf2_block_gun                     _ Blocks/block_concrete_border.png
+inf2_get_type_gun                  _ Blocks/block_info.png
+#inf2_ladder_gun                    _ Inf2/block_side_ladder.png
+#block_side_ladder                  _ Inf2/block_side_ladder.png
+
+###############################################################################
+#
+#                         TEXSTURES FOR MOVING ENTITIES
+#
+###############################################################################
+
+# I should really change the capitalization convention for the monsters.
+
+# Monsters.
+
+#MonsterGoblin                      _ MEnts/Monster/Gold/monster_goblin.png
+#MonsterImp                         _ MEnts/Monster/Gold/monster_imp.png
+#MonsterGnoll                       _ MEnts/Monster/Gold/monster_gnoll.png
+#MonsterDemon                       _ MEnts/Monster/Gold/monster_demon.png
+#MonsterOrc                         _ MEnts/Monster/Gold/monster_orc.png
+#MonsterTroll                       _ MEnts/Monster/Gold/monster_troll.png
+#MonsterHobgoblin                   _ MEnts/Monster/Gold/monster_hobgoblin.png
+#MonsterOgre                        _ MEnts/Monster/Gold/monster_ogre.png
+#MonsterMarineLight                 _ MEnts/Monster/Marine/monster_marine_light.png
+#MonsterMarine                      _ MEnts/Monster/Marine/monster_marine.png
+#MonsterMarineHeavy                 _ MEnts/Monster/Marine/monster_marine_heavy.png
+#MonsterMarineRebel                 _ MEnts/Monster/Marine/monster_marine_rebel.png
+#MonsterMarineInsurgent             _ MEnts/Monster/Marine/monster_marine_insurgent.png
+#MonsterMarineDissident             _ MEnts/Monster/Marine/monster_marine_dissident.png
+#MonsterMarineHiredGun              _ MEnts/Monster/Marine/monster_marine_hired_gun.png
+#MonsterMarineGuerilla              _ MEnts/Monster/Marine/monster_marine_guerilla.png
+#MonsterMarineHitMan                _ MEnts/Monster/Marine/monster_marine_hit_man.png
+#MonsterMarineMercinary             _ MEnts/Monster/Marine/monster_marine_mercinary.png
+#MonsterMarineCommando              _ MEnts/Monster/Marine/monster_marine_commando.png
+#MonsterMenace                      _ MEnts/Monster/Menace/monster_menace.png
+#MonsterArchMenaceMale              _ MEnts/Monster/Menace/monster_menace_green.png
+#MonsterArchMenaceFemale            _ MEnts/Monster/Menace/monster_menace_pink.png
+#MonsterVileMenace                  _ MEnts/Monster/Menace/monster_menace_red.png
+#MonsterGnat                        _ MEnts/Monster/Fly/monster_gnat.png
+#MonsterGnatStrong                  _ MEnts/Monster/Fly/monster_gnat_strong.png
+#MonsterGnatBiblical                _ MEnts/Monster/Fly/monster_gnat_biblical.png
+#MonsterFly                         _ MEnts/Monster/Fly/monster_fly.png
+#MonsterFlyStrong                   _ MEnts/Monster/Fly/monster_fly_strong.png
+#MonsterFlyBiblical                 _ MEnts/Monster/Fly/monster_fly_biblical.png
+#MonsterMosquito                    _ MEnts/Monster/Fly/monster_mosquito.png
+#MonsterMosquitoStrong              _ MEnts/Monster/Fly/monster_mosquito_strong.png
+#MonsterMosquitoBiblical            _ MEnts/Monster/Fly/monster_mosquito_biblical.png
+#MonsterLocust                      _ MEnts/Monster/Fly/monster_locust.png
+#MonsterLocustStrong                _ MEnts/Monster/Fly/monster_locust_strong.png
+#MonsterLocustBiblical              _ MEnts/Monster/Fly/monster_locust_biblical.png
+#MonsterPlague                      _ MEnts/Monster/Fly/monster_plague.png
+#MonsterPlagueNonP                  _ MEnts/Monster/Fly/monster_plague_nonp.png
+#MonsterVirus                       _ MEnts/Monster/Fly/monster_virus.png
+#MonsterJug                         _ MEnts/Monster/Jug/monster_jug.png
+#MonsterJugTough                    _ MEnts/Monster/Jug/monster_jug_tough.png
+#MonsterJugUnruly                   _ MEnts/Monster/Jug/monster_jug_unruly.png
+#MonsterJugFormidable               _ MEnts/Monster/Jug/monster_jug_formidable.png
+#MonsterJugIAm                      _ MEnts/Monster/Jug/monster_jug_i_am.png
+#MonsterCollapsedStar               _ MEnts/Monster/Collapsed/monster_collapsed_star.png
+#MonsterCollapsedAngel              _ MEnts/Monster/Collapsed/monster_collapsed_angel.png
+#MonsterCollapsedArchangel          _ MEnts/Monster/Collapsed/monster_collapsed_archangel.png
+#MonsterCollapsedSpirit             _ MEnts/Monster/Collapsed/monster_collapsed_spirit.png
+#MonsterCollapsedSoul               _ MEnts/Monster/Collapsed/monster_collapsed_soul.png
+#MonsterAbominationBlue             _ MEnts/monster_abomination_blue.png
+#MonsterAbominationAntiBlue         _ MEnts/monster_abomination_antiblue.png
+#MonsterGoonPetite                  _ MEnts/Monster/Goon/monster_goon_petite.png
+#MonsterGoonSmall                   _ MEnts/Monster/Goon/monster_goon_small.png
+#MonsterGoon                        _ MEnts/Monster/Goon/monster_goon.png
+#MonsterGoonLarge                   _ MEnts/Monster/Goon/monster_goon_large.png
+#MonsterGoonMajor                   _ Ments/Monster/Goon/monster_goon_major.png
+#MonsterGoonQuestionable            _ MEnts/Monster/Goon/monster_goon_questionable.png
+#MonsterGoonImmoral                 _ MEnts/Monster/Goon/monster_goon_immoral.png
+#MonsterGoonUnsavory                _ MEnts/Monster/Goon/monster_goon_unsavory.png
+#MonsterGoonEvil                    _ MEnts/Monster/Goon/monster_goon_evil.png
+#MonsterGoonDespicable              _ Ments/Monster/Goon/monster_goon_despicable.png
+#MonsterGoonManiacal                _ Ments/Monster/Goon/monster_goon_maniacal.png
+#MonsterGoonUltimate                _ MEnts/Monster/Goon/monster_goon_ultimate.png
+#MonsterHexatrix                    _ MEnts/Monster/Goon/monster_hexatrix.png
+#MonsterSpiderBaby                  _ MEnts/Monster/Spider/monster_spider_baby.png
+#MonsterSpiderLesser                _ MEnts/Monster/Spider/monster_spider_lesser.png
+#MonsterSpider                      _ MEnts/Monster/Spider/monster_spider.png
+#MonsterSpiderGreat                 _ MEnts/Monster/Spider/monster_spider_great.png
+#MonsterSpiderLord                  _ MEnts/Monster/Spider/monster_spider_lord.png
+#MonsterRocketSpiderBaby            _ MEnts/Monster/Spider/monster_rocket_spider_baby.png
+#MonsterDragoon                     _ MEnts/monster_dragoon.png
+#MonsterBee                         _ MEnts/Monster/Bee/monster_bee.png
+#MonsterWasp                        _ MEnts/Monster/Bee/monster_wasp.png
+#MonsterHornet                      _ MEnts/Monster/Bee/monster_hornet.png
+#MonsterVulcan                      _ MEnts/Monster/Vulcan/monster_vulcan.png
+#MonsterVulcanWar                   _ MEnts/Monster/Vulcan/monster_vulcan_war.png
+#MonsterVulcanWarIron               _ MEnts/Monster/Vulcan/monster_vulcan_war_iron.png
+#MonsterNuclearSilo                 _ MEnts/Monster/Nuclear/monster_nuclear_silo.png
+#MonsterNuclearSiloCompromised      _ MEnts/Monster/Nuclear/monster_nuclear_silo_compromised.png
+#MonsterNuclearOreMiningLocation    _ MEnts/Monster/Nuclear/monster_nuclear_ore_mining_location.png
+#MonsterNuclearRefinery             _ MEnts/Monster/Nuclear/monster_nuclear_refinery.png
+#MonsterNuclearCyclotron            _ MEnts/Monster/Nuclear/monster_nuclear_cyclotron.png
+#MonsterNuclearLaunchFacility       _ MEnts/Monster/Nuclear/monster_nuclear_launch_facility.png
+#MonsterNuclearDoomsdayShelter      _ MEnts/Monster/Nuclear/monster_nuclear_doomsday_shelter.png
+#MonsterFanatic                     _ MEnts/Monster/Mystical/monster_fanatic.png
+#MonsterDisciple                    _ MEnts/Monster/Mystical/monster_disciple.png
+#MonsterMystic                      _ MEnts/Monster/Mystical/monster_mystic.png
+#MonsterOverseer                    _ MEnts/monster_overseer.png
+#MonsterOverlord                    _ MEnts/monster_overlord.png
+#MonsterGuardian                    _ MEnts/Monster/Guardian/monster_guardian.png
+#MonsterGuardianMinor               _ MEnts/Monster/Guardian/monster_guardian_minor.png
+#MonsterNightGuard                  _ MEnts/Monster/Guardian/monster_night_guard.png
+#MonsterEnforcer                    _ MEnts/Monster/Guardian/monster_enforcer.png
+#MonsterGoliath                     _ MEnts/monster_goliath.png
+#MonsterProbe                       _ MEnts/Monster/Science/monster_probe.png
+#MonsterSentinel                    _ MEnts/Monster/Science/monster_sentinel.png
+#MonsterSentinelAnti                _ MEnts/Monster/Science/monster_sentinel_anti.png
+#MonsterSatellite                   _ MEnts/Monster/Science/monster_satellite.png
+#MonsterLaboratory                  _ MEnts/Monster/Science/monster_laboratory.png
+#MonsterScienceCore                 _ MEnts/Monster/Science/monster_science_core.png
+#MonsterMothership                  _ MEnts/Monster/Science/monster_mothership.png
+#MonsterMechanizedSheath            _ MEnts/Monster/Science/monster_mechanized_sheath.png
+#MonsterWolf                        _ MEnts/monster_wolf.png
+#MonsterInnerCore                   _ MEnts/monster_inner_core.png
+#MonsterICCC                        _ MEnts/monster_iccc.png
+#MonsterClockworkWatchman           _ MEnts/monster_clockwork_watchman.png
+#MonsterPirate                      _ MEnts/Monster/Pirate/monster_pirate.png
+#MonsterFirstMate                   _ MEnts/Monster/Pirate/monster_first_mate.png
+#MonsterCaptain                     _ MEnts/Monster/Pirate/monster_captain.png
+#MonsterBloodBoy                    _ MEnts/monster_blood_boy.png
+#MonsterBloodBoyGreater             _ MEnts/monster_blood_boy_greater.png
+#MonsterLamprey                     _ MEnts/Monster/Lamprey/monster_lamprey.png
+#MonsterLampreyYellow               _ MEnts/Monster/Lamprey/monster_lamprey_yellow.png
+#MonsterLampreyGreen                _ MEnts/Monster/Lamprey/monster_lamprey_green.png
+#MonsterLampreyRed                  _ MEnts/Monster/Lamprey/monster_lamprey_red.png
+#MonsterLampreyBlue                 _ MEnts/Monster/Lamprey/monster_lamprey_blue.png
+#MonsterInnerCoreMinion             _ MEnts/monster_inner_core_minion.png
+#MonsterBeholderMinor               _ MEnts/Monster/Beholder/monster_beholder_minor.png
+#MonsterBeholderLesser              _ MEnts/Monster/Beholder/monster_beholder_lesser.png
+#MonsterBeholder                    _ MEnts/Monster/Beholder/monster_beholder.png
+#MonsterBeholderGreater             _ MEnts/Monster/Beholder/monster_beholder_greater.png
+#MonsterBeholderMajor               _ MEnts/Monster/Beholder/monster_beholder_major.png
+#MonsterSliverMinor                 _ MEnts/Monster/Sliver/monster_sliver_minor.png
+#MonsterSliverLesser                _ MEnts/Monster/Sliver/monster_sliver_lesser.png
+#MonsterSliver                      _ MEnts/Monster/Sliver/monster_sliver.png
+#MonsterSliverGreater               _ MEnts/Monster/Sliver/monster_sliver_greater.png
+#MonsterSliverMajor                 _ MEnts/Monster/Sliver/monster_sliver_major.png
+#MonsterRatMinor                    _ MEnts/Monster/Rat/monster_rat_minor.png
+#MonsterRatLesser                   _ MEnts/Monster/Rat/monster_rat_lesser.png
+#MonsterRat                         _ MEnts/Monster/Rat/monster_rat.png
+#MonsterRatGreater                  _ MEnts/Monster/Rat/monster_rat_greater.png
+#MonsterRatBilgeMinor               _ MEnts/Monster/Rat/monster_rat_bilge_minor.png
+#MonsterPoolBall1                   _ MEnts/Monster/PoolBall/monster_pool_ball_1.png
+#MonsterPoolBall2                   _ MEnts/Monster/PoolBall/monster_pool_ball_2.png
+#MonsterPoolBall3                   _ MEnts/Monster/PoolBall/monster_pool_ball_3.png
+#MonsterPoolBall4                   _ MEnts/Monster/PoolBall/monster_pool_ball_4.png
+#MonsterPoolBall5                   _ MEnts/Monster/PoolBall/monster_pool_ball_5.png
+#MonsterPoolBall6                   _ MEnts/Monster/PoolBall/monster_pool_ball_6.png
+#MonsterPoolBall7                   _ MEnts/Monster/PoolBall/monster_pool_ball_7.png
+#MonsterPoolBall8                   _ MEnts/Monster/PoolBall/monster_pool_ball_8.png
+#MonsterYinYangOrange               _ MEnts/monster_yinyang_orange.png
+#MonsterYinYangGreen                _ MEnts/monster_yinyang_green.png
+#
+##Not exactly monsters:
+#MonsterKeyYellow                   _ MEnts/Key/monster_key_yellow.png
+#MonsterKeyBlue                     _ MEnts/Key/monster_key_blue.png
+#MonsterKeyGreen                    _ MEnts/Key/monster_key_green.png
+#MonsterKeyUniverse                 _ MEnts/Key/monster_key_universe.png
+#MonsterKeyLaserGenesis             _ MEnts/Key/monster_key_laser_genesis.png
+#MonsterKeyDansHouse                _ MEnts/Key/monster_key_dans_house.png
+#WhiteBoxDevice                     _ MEnts/white_box_device.png
+#YellowBoxDevice                    _ MEnts/yellow_box_device.png
+#Drop                               _ MEnts/drop.png
+#
+#Rocket1Explosion                   _ MEnts/Explosion/rocket_1_explosion.png
+#Rocket2Explosion                   _ MEnts/Explosion/rocket_2_explosion.png
+#Rocket3Explosion                   _ MEnts/Explosion/rocket_3_explosion.png
+#
+#Nuke1Explosion                     _ MEnts/Explosion/nuke_1_explosion.png
+#Nuke2Explosion                     _ MEnts/Explosion/nuke_2_explosion.png
+
+#################################################
+#          Content made by community members
+#################################################
+
+#rocketmodel                         _ MEnts/Community/rocketmodel.png
+#rocketmodel_green                   _ MEnts/Community/rocketmodel_green.png
+#rocketmodel_striped                 _ MEnts/Community/rocketmodel_striped.png
+#rocketmodel_blue_striped            _ MEnts/Community/rocketmodel_blue_striped.png
+#rocketmodel_teal_striped            _ MEnts/Community/rocketmodel_teal_striped.png
+#rocketmodel_orange_striped          _ MEnts/Community/rocketmodel_orange_striped.png
+#rocketmodel_pink_striped            _ MEnts/Community/rocketmodel_pink_striped.png

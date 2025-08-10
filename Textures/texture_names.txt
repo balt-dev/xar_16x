@@ -1,3 +1,34 @@
+crosshair                a crosshair.png
+icon_shield                 _ Icons/icon_shield.png
+icon_shield_grey            _ Icons/icon_shield_grey.png
+icon_health                 _ Icons/icon_health.png
+icon_health_blue            _ Icons/icon_health_blue.png
+icon_health_dark_blue       _ Icons/icon_health_dark_blue.png
+icon_health_red             _ Icons/icon_health_red.png
+icon_armor                  _ Icons/icon_armor.png
+icon_armor_grey             _ Icons/icon_armor_grey.png
+icon_armor_two              _ Icons/icon_armor_two.png
+icon_armor_three            _ Icons/icon_armor_three.png
+icon_gold                   _ Icons/icon_gold.png
+icon_markers                _ Icons/icon_markers.png
+icon_rocket                 _ Icons/icon_rocket.png
+icon_brake                  _ Icons/icon_brake.png
+icon_xp                     _ Icons/icon_xp.png
+icon_xp_back                _ Icons/icon_xp_back.png
+icon_xp_5x                  _ Icons/icon_xp_5x.png
+icon_hive_attack_bar        _ Icons/icon_hive_attack_bar.png
+icon_hive_attack_bar_back   _ Icons/icon_hive_attack_bar_back.png
+icon_damage_5x              _ Icons/icon_damage_5x.png
+icon_invun                  _ Icons/icon_invun.png
+icon_hardcore               _ Icons/icon_hardcore.png
+icon_pacifist               _ Icons/icon_pacifist.png
+icon_skull                  _ Icons/skull_and_cross.png
+icon_beacon                 _ Icons/icon_beacon.png
+icon_save                   _ Icons/icon_save.png
+icon_arcade                 _ Icons/icon_arcade.png
+icon_shrink_warning         _ Icons/icon_shrink_warning.png
+icon_yin_yang_warning       a Icons/icon_yin_yang_small.png
+icon_quasar_drive         _ Icons/icon_quasar_drive.png
 ammo_gun0           _ Ammo/gun0.png
 ammo_gun0_grey      _ Ammo/grey_gun0.png
 ammo_gun1           _ Ammo/gun1.png
@@ -18,6 +49,398 @@ ammo_gun8           _ Ammo/gun8.png
 ammo_gun8_grey      _ Ammo/grey_gun8.png
 ammo_gun9           _ Ammo/gun9.png
 ammo_gun9_grey      _ Ammo/grey_gun9.png
+ent_credits            _ BEnts/ent_credits.png
+key_yellow             _ BEnts/key_yellow.png
+key_green              _ BEnts/key_green.png
+key_blue               _ BEnts/key_blue.png
+key_green              _ BEnts/key_green.png
+key_laser_genesis      _ BEnts/key_laser_genesis.png
+key_dans_house         _ BEnts/key_dans_house.png
+shield                 _ BEnts/ent_shield.png
+health_10p             _ BEnts/ent_health10%.png
+health_25p             _ BEnts/ent_health25%.png
+health_100p            _ BEnts/ent_health100%.png
+health_200p            _ BEnts/ent_health200%.png
+health_100p_armor_100p _ BEnts/ent_health100%armor100%.png
+health_200p_armor_100p _ BEnts/ent_health200%armor100%.png
+health_200p_armor_200p _ BEnts/ent_health200%armor200%.png
+health_mega            _ BEnts/ent_health_mega.png
+armor_5p               _ BEnts/ent_armor5%.png
+armor_10p              _ BEnts/ent_armor10%.png
+armor_100p(bronze)     _ BEnts/ent_armor100%(bronze).png
+armor_150p(silver)     _ BEnts/ent_armor150%(silver).png
+armor_200p(gold)       _ BEnts/ent_armor200%(gold).png
+armor_600p(ivory)      _ BEnts/ent_armor600%(ivory).png
+armor_1000p(jade)      _ BEnts/ent_armor1000%(jade).png
+spice                  _ BEnts/ent_spice.png
+gold_1                 _ BEnts/ent_gold1.png
+gold_2                 _ BEnts/ent_gold2.png
+gold_3                 _ BEnts/ent_gold3.png
+gold_5                 _ BEnts/ent_gold5.png
+gold_10                _ BEnts/ent_gold10.png
+gold_20                _ BEnts/ent_gold20.png
+gold_30                _ BEnts/ent_gold30.png
+gold_50                _ BEnts/ent_gold50.png
+gold_100               _ BEnts/ent_gold100.png
+gold_200               _ BEnts/ent_gold200.png
+gold_300               _ BEnts/ent_gold300.png
+gold_500               _ BEnts/ent_gold500.png
+gold_1000              _ BEnts/ent_gold1000.png
+xp                     _ BEnts/xp.png
+weapon_mode            _ Blocks/block_weapon_mode.png
+trophy                      _ BEnts/ent_trophy.png
+xp_5x_stacking              _ BEnts/ent_xp_5x_stacking.png
+damage_5x_stacking          _ BEnts/ent_damage_5x_stacking.png
+invun_stacking              _ BEnts/ent_invun_stacking.png
+bent_bookmark                   _ BEnts/ent_bookmark.png
+bent_bookmark_gray              _ BEnts/ent_bookmark_gray.png
+buy_marker_5                    _ BEnts/ent_buy_marker_5.png
+buy_marker_4                    _ BEnts/ent_buy_marker_4.png
+buy_marker_3                    _ BEnts/ent_buy_marker_3.png
+buy_marker_2                    _ BEnts/ent_buy_marker_2.png
+buy_marker_1                    _ BEnts/ent_buy_marker_1.png
+sell_station_common             _ BEnts/ent_sell_common.png
+sell_station_scarce             _ BEnts/ent_sell_scarce.png
+sell_station_rare               _ BEnts/ent_sell_rare.png
+buy_station                     _ BEnts/ent_buy.png
+black_market                    _ BEnts/ent_black_market.png
+upgrade_telekinesis             _ BEnts/ent_telekinesis_upgrade.png
+upgrade_station                 _ BEnts/ent_upgrade_station.png
+upgrade_station_max_ammo        _ BEnts/ent_upgrade_station_max_ammo.png
+buy_blue_key                    _ BEnts/ent_buy_blue_key.png
+pay_toll                        _ BEnts/ent_pay_toll.png
+bent_env_var_open_door          _ BEnts/ent_open_door.png
+bent_open_door_green            _ BEnts/ent_open_green_door.png
+sleep                           _ BEnts/ent_sleep.png
+buy_nuke_400                    _ BEnts/buy_nuke_400.png
+buy_nuke_300                    _ BEnts/buy_nuke_300.png
+buy_nuke_250                    _ BEnts/buy_nuke_250.png
+buy_nuke_200                    _ BEnts/buy_nuke_200.png
+buy_nuke_150                    _ BEnts/buy_nuke_150.png
+buy_nuke_100                    _ BEnts/buy_nuke_100.png
+skull                           _ Icons/skull_and_cross.png
+crossbones                      _ Icons/crossbones.png
+arcade_enter                    _ BEnts/ent_arcade_enter.png
+arcade_exit                     _ BEnts/ent_arcade_exit.png
+arcade_reset_door               _ BEnts/ent_arcade_reset_door.png
+cheap_common_markers            _ BEnts/ent_cheap_common_markers.png
+bent_unlock_stable_sing         _ BEnts/ent_unlock_stable_sing.png
+bent_black_hole_control_panel   _ BEnts/ent_black_hole_control_panel.png
+bent_quasar_control_panel       _ BEnts/ent_quasar_control_panel.png
+genesis_marker_short        _ BEnts/ent_genesis_marker_short.png
+genesis_marker_long         _ BEnts/ent_genesis_marker_long.png
+black                  _ Patterns/black.png
+black_white_border     _ Patterns/black_white_border.png
+green                  _ Patterns/green.png
+red                    _ Patterns/red.png
+dark_grey              _ Patterns/dark_grey.png
+striped_yellow         _ Patterns/striped_yellow.png
+striped_orange         _ Patterns/striped_orange.png
+striped_blue           _ Patterns/striped_blue.png
+striped_red            _ Patterns/striped_red.png
+striped_green          _ Patterns/striped_green.png
+striped_purple         _ Patterns/striped_purple.png
+striped_grey           _ Patterns/striped_grey.png
+pattern_diag_red       _ Patterns/pattern_diag_red.png
+pattern_diag_green     _ Patterns/pattern_diag_green.png
+pattern_diag_purple    _ Patterns/pattern_diag_purple.png
+pattern_diag_yellow    _ Patterns/pattern_diag_yellow.png
+blue                   _ Patterns/color_blue.png
+ice                    _ Patterns/ice.png
+emp                    _ Patterns/emp.png
+ment_poison            _ Patterns/ment_poison.png
+particle_1   a   Particles/particle_1.png
+particle_2   a   Particles/particle_2.png
+block_concrete_border              _ Blocks/block_concrete_border.png
+block_concrete_x                   _ Blocks/block_concrete_x.png
+block_test                         _ Blocks/block_concrete_checker_dark.png
+block_concrete_checker_dark        _ Blocks/block_concrete_checker_dark.png
+block_concrete_checker_red         _ Blocks/block_concrete_checker_red.png
+block_concrete_checker_yellow      _ Blocks/block_concrete_checker_yellow.png
+block_concrete_checker_green       _ Blocks/block_concrete_checker_green.png
+block_concrete_checker_blue        _ Blocks/block_concrete_checker_blue.png
+block_concrete_checker_brown       _ Blocks/block_concrete_checker_brown.png
+block_concrete_checker_blue_yellow _ Blocks/block_concrete_checker_blue_yellow.png
+block_concrete_checker_blue_red    _ Blocks/block_concrete_checker_blue_red.png
+block_concrete_dark_dot            _ Blocks/block_concrete_dark_dot.png
+block_concrete_yellow              _ Blocks/block_concrete_yellow.png
+block_concrete_yellow_border       _ Blocks/block_concrete_yellow_border.png
+block_concrete_yellow_diag         _ Blocks/block_concrete_yellow_diag.png
+block_concrete_yellow_x            _ Blocks/block_concrete_yellow_x.png
+block_concrete_orange_border       _ Blocks/block_concrete_orange_border.png
+block_concrete_orange_diag         _ Blocks/block_concrete_orange_diag.png
+block_concrete_orange_x            _ Blocks/block_concrete_orange_x.png
+block_concrete_red_border          _ Blocks/block_concrete_red_border.png
+block_concrete_red_diag            _ Blocks/block_concrete_red_diag.png
+block_concrete_red_x               _ Blocks/block_concrete_red_x.png
+block_concrete_white_border        _ Blocks/block_concrete_white_border.png
+block_concrete_white_diag          _ Blocks/block_concrete_white_diag.png
+block_concrete_white_x             _ Blocks/block_concrete_white_x.png
+block_concrete_green               _ Blocks/block_concrete_green.png
+block_concrete_green_border        _ Blocks/block_concrete_green_border.png
+block_concrete_green_diag          _ Blocks/block_concrete_green_diag.png
+block_concrete_green_x             _ Blocks/block_concrete_green_x.png
+block_concrete_blue_border         _ Blocks/block_concrete_blue_border.png
+block_concrete_blue_diag           _ Blocks/block_concrete_blue_diag.png
+block_concrete_blue_x              _ Blocks/block_concrete_blue_x.png
+block_concrete_purple_border       _ Blocks/block_concrete_purple_border.png
+block_concrete_purple_x            _ Blocks/block_concrete_purple_x.png
+block_concrete_brown_border        _ Blocks/block_concrete_brown_border.png
+block_concrete_brown_yellow_border _ Blocks/block_concrete_brown_yellow_border.png
+block_concrete_brown_orange_border _ Blocks/block_concrete_brown_orange_border.png
+block_concrete_brown_red_border    _ Blocks/block_concrete_brown_red_border.png
+block_tutorial                     _ Blocks/block_tutorial.png
+block_dark_concrete_white_border   _ Blocks/block_dark_concrete_white_border.png
+block_dark_concrete_blue_border    _ Blocks/block_dark_concrete_blue_border.png
+block_dark_concrete_green_border   _ Blocks/block_dark_concrete_green_border.png
+block_dark_concrete_red_border     _ Blocks/block_dark_concrete_red_border.png
+block_dark_concrete_orange_border  _ Blocks/block_dark_concrete_orange_border.png
+block_dark_concrete_purple_border  _ Blocks/block_dark_concrete_purple_border.png
+block_black                        _ Blocks/block_black.png
+block_green_black_striped          _ Blocks/block_green_black_striped.png
+block_yellow_black_striped         _ Blocks/block_yellow_black_striped.png
+block_red_black_striped            _ Blocks/block_red_black_striped.png
+block_white_black_striped          _ Blocks/block_white_black_striped.png
+block_blue_block_striped           _ Blocks/block_blue_black_striped.png
+block_expander                     _ Blocks/block_expander.png
+block_stopper                      _ Blocks/block_stopper.png
+block_stopper2                     _ Blocks/block_stopper2.png
+block_one_way                      _ Blocks/block_one_way.png
+block_one_way_green                _ Blocks/block_one_way_green.png
+block_one_way_red                  _ Blocks/block_one_way_red.png
+block_in_only                      _ Blocks/block_in_only.png
+block_wrong_way                    _ Blocks/block_wrong_way.png
+block_door                         _ Blocks/block_door.png
+block_door_green                   _ Blocks/block_door_green.png
+block_toll_door                    _ Blocks/block_toll_door.png
+block_anti_plug                    _ Blocks/block_anti_plug.png
+block_info                         _ Blocks/block_info.png
+block_map                          _ Blocks/block_map.png
+block_light_blue_border            _ Blocks/block_light_blue_border.png
+block_blue_border                  _ Blocks/block_blue_border.png
+block_light_green_border           _ Blocks/block_light_green_border.png
+block_bright_green_border          _ Blocks/block_bright_green_border.png
+block_dark_green_border            _ Blocks/block_dark_green_border.png
+block_dark_green_x                 _ Blocks/block_dark_green_x.png
+block_blackberry_medium            _ Blocks/block_blackberry_medium.png
+block_blackberry_large             _ Blocks/block_blackberry_large.png
+block_raspberry                    _ Blocks/block_raspberry.png
+block_ying_pattern                 _ Blocks/block_ying_pattern.png
+block_ying2_pattern                _ Blocks/block_ying2_pattern.png
+block_high_voltage                 _ Blocks/block_high_voltage.png
+block_disco                        _ Blocks/block_disco.png
+block_white_box                    _ Blocks/block_white_box.png
+block_box_paper                    _ Blocks/block_box_paper.png
+block_box_cardboard                _ Blocks/block_box_cardboard.png
+block_box_steel                    _ Blocks/block_box_steel.png
+block_box_wood                     _ Blocks/block_box_wood.png
+block_deco1                        _ Blocks/block_deco1.png
+block_deco1_green1                 _ Blocks/block_deco1_green1.png
+block_deco1_green2                 _ Blocks/block_deco1_green2.png
+block_deco1_blue1                  _ Blocks/block_deco1_blue1.png
+block_deco1_purple1                _ Blocks/block_deco1_purple1.png
+block_deco1_purple2                _ Blocks/block_deco1_purple2.png
+block_deco1_yellow1                _ Blocks/block_deco1_yellow1.png
+block_mushroom                     _ Blocks/block_mushroom.png
+block_mushroom_blue                _ Blocks/block_mushroom_blue.png
+block_mushroom_black               _ Blocks/block_mushroom_black.png
+block_mushroom_yellow              _ Blocks/block_mushroom_yellow.png
+block_mushroom_red                 _ Blocks/block_mushroom_red.png
+block_toadstool                    _ Blocks/block_toadstool.png
+block_keiths                       _ Blocks/block_keiths.png
+block_belle_rosette                _ Blocks/block_belle_rosette.png
+block_happy_land                   _ Blocks/block_happy_land.png
+block_maze                         _ Blocks/block_maze.png
+block_concrete_red_green_border    _ Blocks/block_concrete_red_green_border.png
+block_infinity_green               _ Blocks/block_infinity_green.png
+block_infinity_yellow              _ Blocks/block_infinity_yellow.png
+block_infinity_red                 _ Blocks/block_infinity_red.png
+block_i1_green                     _ Blocks/block_i1_green.png
+block_i1_red                       _ Blocks/block_i1_red.png
+block_i2_green                     _ Blocks/block_i2_green.png
+block_i2_yellow                    _ Blocks/block_i2_yellow.png
+block_i2_red                       _ Blocks/block_i2_red.png
+block_i3_green                     _ Blocks/block_i3_green.png
+block_i3_yellow                    _ Blocks/block_i3_yellow.png
+block_pink                         _ Blocks/block_pink.png
+block_blue                         _ Blocks/block_blue.png
+block_rainbow                      _ Blocks/block_rainbow.png
+block_mylantis                     _ Blocks/block_mylantis.png
+block_concrete_red_0               _ Blocks/block_concrete_red_0.png
+block_concrete_red_1               _ Blocks/block_concrete_red_1.png
+block_lighthouse                   _ Blocks/block_lighthouse.png
+block_moon_alpha                   _ Blocks/Space/block_moon_alpha.png
+block_moon_beta                    _ Blocks/Space/block_moon_beta.png
+block_moon_gamma                   _ Blocks/Space/block_moon_gamma.png
+block_moon_tau                     _ Blocks/Space/block_moon_tau.png
+block_moon_tau_secret              _ Blocks/Space/block_moon_tau_secret.png
+block_moon_fire_rate               _ Blocks/Space/block_moon_fire_rate.png
+block_moon_ice                     _ Blocks/Space/block_moon_ice.png
+block_tau_caves                    _ Blocks/block_tau_caves.png
+block_mylantis_customs             _ Blocks/block_mylantis_customs.png
+block_laser_genesis                _ Blocks/block_laser_genesis.png
+block_laser_fort_small             _ Blocks/block_laser_fort_small.png
+block_oak_tree                     _ Blocks/block_oak_tree.png
+block_richmond                     _ Blocks/Town/block_richmond.png
+block_jericho                      _ Blocks/Town/block_jericho.png
+block_huntington                   _ Blocks/Town/block_huntington.png
+block_williston                    _ Blocks/Town/block_williston.png
+block_bristol                      _ Blocks/Town/block_bristol.png
+block_montreal                     _ Blocks/Town/block_montreal.png
+block_toronto                      _ Blocks/Town/block_toronto.png
+block_danville_above               _ Blocks/Town/block_danville_above.png
+block_danville_below               _ Blocks/Town/block_danville_below.png
+block_hinesburg                    _ Blocks/Town/block_hinesburg.png
+block_colchester                   _ Blocks/Town/block_colchester.png
+block_denver                       _ Blocks/Town/block_denver.png
+block_essex                        _ Blocks/Town/block_essex.png
+block_burlington                   _ Blocks/Town/block_burlington.png
+block_planet_small_minigun         _ Blocks/Space/block_planet_small_minigun.png
+block_planet_clay                  _ Blocks/Space/block_planet_clay.png
+block_gato_light_blue              _ Blocks/block_gato_light_blue.png
+block_gato_yellow                  _ Blocks/block_gato_yellow.png
+block_gato_green                   _ Blocks/block_gato_green.png
+block_gato_purple                  _ Blocks/block_gato_purple.png
+block_num_1                        _ Blocks/block_num_1.png
+block_num_2                        _ Blocks/block_num_2.png
+block_num_3                        _ Blocks/block_num_3.png
+block_num_4                        _ Blocks/block_num_4.png
+block_num_5                        _ Blocks/block_num_5.png
+block_num_6                        _ Blocks/block_num_6.png
+block_num_7                        _ Blocks/block_num_7.png
+block_num_8                        _ Blocks/block_num_8.png
+block_num_9                        _ Blocks/block_num_9.png
+block_num_0                        _ Blocks/block_num_0.png
+block_letter_a                     _ Blocks/block_letter_a.png
+block_letter_b                     _ Blocks/block_letter_b.png
+block_letter_c                     _ Blocks/block_letter_c.png
+block_letter_d                     _ Blocks/block_letter_d.png
+block_letter_e                     _ Blocks/block_letter_e.png
+block_letter_f                     _ Blocks/block_letter_f.png
+block_letter_g                     _ Blocks/block_letter_g.png
+block_letter_h                     _ Blocks/block_letter_h.png
+block_letter_i                     _ Blocks/block_letter_i.png
+block_letter_j                     _ Blocks/block_letter_j.png
+block_letter_k                     _ Blocks/block_letter_k.png
+block_letter_l                     _ Blocks/block_letter_l.png
+block_letter_m                     _ Blocks/block_letter_m.png
+block_letter_n                     _ Blocks/block_letter_n.png
+block_letter_o                     _ Blocks/block_letter_o.png
+block_letter_p                     _ Blocks/block_letter_p.png
+block_letter_q                     _ Blocks/block_letter_q.png
+block_letter_r                     _ Blocks/block_letter_r.png
+block_letter_s                     _ Blocks/block_letter_s.png
+block_letter_t                     _ Blocks/block_letter_t.png
+block_letter_u                     _ Blocks/block_letter_u.png
+block_letter_v                     _ Blocks/block_letter_v.png
+block_letter_w                     _ Blocks/block_letter_w.png
+block_letter_x                     _ Blocks/block_letter_x.png
+block_letter_y                     _ Blocks/block_letter_y.png
+block_letter_z                     _ Blocks/block_letter_z.png
+block_sponge_pure                  _ Blocks/block_sponge_pure.png
+block_sponge_alpha                 _ Blocks/block_sponge_alpha.png
+block_sponge_beta                  _ Blocks/block_sponge_beta.png
+block_sponge_deep                  _ Blocks/block_sponge_deep.png
+block_spiral                       _ Blocks/block_spiral.png
+block_omega                        _ Blocks/block_omega.png
+block_exit                         _ Blocks/block_exit.png
+block_ice_cube                     _ Blocks/block_ice_cube.png
+block_ice_cube_hard                _ Blocks/block_ice_cube_hard.png
+block_medium_gold_asteroid         _ Blocks/block_medium_gold_asteroid.png
+block_dollar                       _ Blocks/block_dollar.png
+block_cent                         _ Blocks/block_cent.png
+block_high_gold_asteroid           _ Blocks/block_high_gold_asteroid.png
+block_lockbox                      _ Blocks/block_lockbox.png
+block_lockbox_grand                _ Blocks/block_lockbox_grand.png
+block_sun                          _ Blocks/block_sun.png
+block_ammo                         _ Blocks/block_ammo.png
+block_hell                         _ Blocks/block_hell.png
+block_upgrade_station              _ BEnts/ent_upgrade_station.png
+block_bedroom                      _ Blocks/block_bedroom.png
+block_cube_1                       _ Blocks/block_cube_1.png
+block_you_are_here                 _ Blocks/block_you_are_here.png
+block_radioactive                  _ Blocks/block_radioactive.png
+block_tweedle_dum_air              _ Blocks/block_tweedle_dum_air.png
+block_blue_bubble                  _ Blocks/block_blue_bubble.png
+block_museum                       _ Blocks/block_museum.png
+block_tangerine                    _ Blocks/block_tangerine.png
+block_pumpkin                      _ Blocks/block_pumpkin.png
+block_marble_1                     _ Blocks/block_marble_1.png
+block_marble_2                     _ Blocks/block_marble_2.png
+block_marble_3                     _ Blocks/block_marble_3.png
+block_marble_4                     _ Blocks/block_marble_4.png
+block_weapon_mode                  _ Blocks/block_weapon_mode.png
+block_arcade_enter                 _ Blocks/block_arcade_enter.png
+block_arcade_exit                  _ Blocks/block_arcade_exit.png
+block_arcade_shut                  _ Blocks/block_arcade_shut.png
+block_red_heart_black_back         _ Blocks/block_red_heart_black_background.png
+block_iccc                         _ Blocks/block_iccc.png
+block_sponge                       _ Blocks/block_sponge.png
+block_key_yellow                   _ BEnts/key_yellow.png
+block_key_blue                     _ BEnts/key_blue.png
+block_key_green                    _ BEnts/key_green.png
+block_glass                        a Blocks/block_glass.png
+block_dan_house_siding             _ Blocks/DanHouse/block_dan_house_siding.png
+block_dan_house_kitchen            _ Blocks/DanHouse/block_dan_house_kitchen.png
+block_dan_house_thin_wood_floor    _ Blocks/DanHouse/block_dan_house_thin_wood_floor.png
+block_dan_house_thick_wood_floor   _ Blocks/DanHouse/block_dan_house_thick_wood_floor.png
+block_dan_house_window             _ Blocks/DanHouse/block_dan_house_window.png
+block_dan_house_red_tile           _ Blocks/DanHouse/block_dan_house_red_tile.png
+block_dan_house_darkroom           _ Blocks/DanHouse/block_dan_house_darkroom.png
+block_dan_house_bath_down          _ Blocks/DanHouse/block_dan_house_bath_down.png
+block_dan_house_dan_room           _ Blocks/DanHouse/block_dan_house_dan_room.png
+block_dan_house_hall               _ Blocks/DanHouse/block_dan_house_hall.png
+block_dan_house_library            _ Blocks/DanHouse/block_dan_house_library.png
+block_dan_house_bath_up            _ Blocks/DanHouse/block_dan_house_bath_up.png
+block_dan_house_furnace            _ Blocks/DanHouse/block_dan_house_furnace.png
+block_dan_house_ceiling            _ Blocks/DanHouse/block_dan_house_ceiling.png
+block_dan_house_jungle_room        _ Blocks/DanHouse/block_dan_house_jungle_room.png
+block_dan_house_joan               _ Blocks/DanHouse/block_dan_house_joan.png
+block_dan_house_bruce              _ Blocks/DanHouse/block_dan_house_bruce.png
+inf2_block_gun                     _ Blocks/block_concrete_border.png
+inf2_get_type_gun                  _ Blocks/block_info.png
+inf2_ladder_gun                    _ Inf2/block_side_ladder.png
+block_side_ladder                  _ Inf2/block_side_ladder.png
+MonsterKeyYellow                   _ MEnts/Key/monster_key_yellow.png
+MonsterKeyBlue                     _ MEnts/Key/monster_key_blue.png
+MonsterKeyGreen                    _ MEnts/Key/monster_key_green.png
+MonsterKeyUniverse                 _ MEnts/Key/monster_key_universe.png
+MonsterKeyLaserGenesis             _ MEnts/Key/monster_key_laser_genesis.png
+MonsterKeyDansHouse                _ MEnts/Key/monster_key_dans_house.png
+WhiteBoxDevice                     _ MEnts/white_box_device.png
+YellowBoxDevice                    _ MEnts/yellow_box_device.png
+Drop                               _ MEnts/drop.png
+set crosshair nearest_neighbor true
+set icon_shield nearest_neighbor true
+set icon_shield_grey nearest_neighbor true
+set icon_health nearest_neighbor true
+set icon_health_blue nearest_neighbor true
+set icon_health_dark_blue nearest_neighbor true
+set icon_health_red nearest_neighbor true
+set icon_armor nearest_neighbor true
+set icon_armor_grey nearest_neighbor true
+set icon_armor_two nearest_neighbor true
+set icon_armor_three nearest_neighbor true
+set icon_gold nearest_neighbor true
+set icon_markers nearest_neighbor true
+set icon_rocket nearest_neighbor true
+set icon_brake nearest_neighbor true
+set icon_xp nearest_neighbor true
+set icon_xp_back nearest_neighbor true
+set icon_xp_5x nearest_neighbor true
+set icon_hive_attack_bar nearest_neighbor true
+set icon_hive_attack_bar_back nearest_neighbor true
+set icon_damage_5x nearest_neighbor true
+set icon_invun nearest_neighbor true
+set icon_hardcore nearest_neighbor true
+set icon_pacifist nearest_neighbor true
+set icon_skull nearest_neighbor true
+set icon_beacon nearest_neighbor true
+set icon_save nearest_neighbor true
+set icon_arcade nearest_neighbor true
+set icon_shrink_warning nearest_neighbor true
+set icon_yin_yang_warning nearest_neighbor true
+set icon_quasar_drive nearest_neighbor true
 set ammo_gun0 nearest_neighbor true
 set ammo_gun0_grey nearest_neighbor true
 set ammo_gun1 nearest_neighbor true
@@ -38,3 +461,364 @@ set ammo_gun8 nearest_neighbor true
 set ammo_gun8_grey nearest_neighbor true
 set ammo_gun9 nearest_neighbor true
 set ammo_gun9_grey nearest_neighbor true
+set ent_credits nearest_neighbor true
+set key_yellow nearest_neighbor true
+set key_green nearest_neighbor true
+set key_blue nearest_neighbor true
+set key_green nearest_neighbor true
+set key_laser_genesis nearest_neighbor true
+set key_dans_house nearest_neighbor true
+set shield nearest_neighbor true
+set health_10p nearest_neighbor true
+set health_25p nearest_neighbor true
+set health_100p nearest_neighbor true
+set health_200p nearest_neighbor true
+set health_100p_armor_100p nearest_neighbor true
+set health_200p_armor_100p nearest_neighbor true
+set health_200p_armor_200p nearest_neighbor true
+set health_mega nearest_neighbor true
+set armor_5p nearest_neighbor true
+set armor_10p nearest_neighbor true
+set armor_100p(bronze) nearest_neighbor true
+set armor_150p(silver) nearest_neighbor true
+set armor_200p(gold) nearest_neighbor true
+set armor_600p(ivory) nearest_neighbor true
+set armor_1000p(jade) nearest_neighbor true
+set spice nearest_neighbor true
+set gold_1 nearest_neighbor true
+set gold_2 nearest_neighbor true
+set gold_3 nearest_neighbor true
+set gold_5 nearest_neighbor true
+set gold_10 nearest_neighbor true
+set gold_20 nearest_neighbor true
+set gold_30 nearest_neighbor true
+set gold_50 nearest_neighbor true
+set gold_100 nearest_neighbor true
+set gold_200 nearest_neighbor true
+set gold_300 nearest_neighbor true
+set gold_500 nearest_neighbor true
+set gold_1000 nearest_neighbor true
+set xp nearest_neighbor true
+set weapon_mode nearest_neighbor true
+set trophy nearest_neighbor true
+set xp_5x_stacking nearest_neighbor true
+set damage_5x_stacking nearest_neighbor true
+set invun_stacking nearest_neighbor true
+set bent_bookmark nearest_neighbor true
+set bent_bookmark_gray nearest_neighbor true
+set buy_marker_5 nearest_neighbor true
+set buy_marker_4 nearest_neighbor true
+set buy_marker_3 nearest_neighbor true
+set buy_marker_2 nearest_neighbor true
+set buy_marker_1 nearest_neighbor true
+set sell_station_common nearest_neighbor true
+set sell_station_scarce nearest_neighbor true
+set sell_station_rare nearest_neighbor true
+set buy_station nearest_neighbor true
+set black_market nearest_neighbor true
+set upgrade_telekinesis nearest_neighbor true
+set upgrade_station nearest_neighbor true
+set upgrade_station_max_ammo nearest_neighbor true
+set buy_blue_key nearest_neighbor true
+set pay_toll nearest_neighbor true
+set bent_env_var_open_door nearest_neighbor true
+set bent_open_door_green nearest_neighbor true
+set sleep nearest_neighbor true
+set buy_nuke_400 nearest_neighbor true
+set buy_nuke_300 nearest_neighbor true
+set buy_nuke_250 nearest_neighbor true
+set buy_nuke_200 nearest_neighbor true
+set buy_nuke_150 nearest_neighbor true
+set buy_nuke_100 nearest_neighbor true
+set skull nearest_neighbor true
+set crossbones nearest_neighbor true
+set arcade_enter nearest_neighbor true
+set arcade_exit nearest_neighbor true
+set arcade_reset_door nearest_neighbor true
+set cheap_common_markers nearest_neighbor true
+set bent_unlock_stable_sing nearest_neighbor true
+set bent_black_hole_control_panel nearest_neighbor true
+set bent_quasar_control_panel nearest_neighbor true
+set genesis_marker_short nearest_neighbor true
+set genesis_marker_long nearest_neighbor true
+set black nearest_neighbor true
+set black_white_border nearest_neighbor true
+set green nearest_neighbor true
+set red nearest_neighbor true
+set dark_grey nearest_neighbor true
+set striped_yellow nearest_neighbor true
+set striped_orange nearest_neighbor true
+set striped_blue nearest_neighbor true
+set striped_red nearest_neighbor true
+set striped_green nearest_neighbor true
+set striped_purple nearest_neighbor true
+set striped_grey nearest_neighbor true
+set pattern_diag_red nearest_neighbor true
+set pattern_diag_green nearest_neighbor true
+set pattern_diag_purple nearest_neighbor true
+set pattern_diag_yellow nearest_neighbor true
+set blue nearest_neighbor true
+set ice nearest_neighbor true
+set emp nearest_neighbor true
+set ment_poison nearest_neighbor true
+set particle_1 nearest_neighbor true
+set particle_2 nearest_neighbor true
+set block_concrete_border nearest_neighbor true
+set block_concrete_x nearest_neighbor true
+set block_test nearest_neighbor true
+set block_concrete_checker_dark nearest_neighbor true
+set block_concrete_checker_red nearest_neighbor true
+set block_concrete_checker_yellow nearest_neighbor true
+set block_concrete_checker_green nearest_neighbor true
+set block_concrete_checker_blue nearest_neighbor true
+set block_concrete_checker_brown nearest_neighbor true
+set block_concrete_checker_blue_yellow nearest_neighbor true
+set block_concrete_checker_blue_red nearest_neighbor true
+set block_concrete_dark_dot nearest_neighbor true
+set block_concrete_yellow nearest_neighbor true
+set block_concrete_yellow_border nearest_neighbor true
+set block_concrete_yellow_diag nearest_neighbor true
+set block_concrete_yellow_x nearest_neighbor true
+set block_concrete_orange_border nearest_neighbor true
+set block_concrete_orange_diag nearest_neighbor true
+set block_concrete_orange_x nearest_neighbor true
+set block_concrete_red_border nearest_neighbor true
+set block_concrete_red_diag nearest_neighbor true
+set block_concrete_red_x nearest_neighbor true
+set block_concrete_white_border nearest_neighbor true
+set block_concrete_white_diag nearest_neighbor true
+set block_concrete_white_x nearest_neighbor true
+set block_concrete_green nearest_neighbor true
+set block_concrete_green_border nearest_neighbor true
+set block_concrete_green_diag nearest_neighbor true
+set block_concrete_green_x nearest_neighbor true
+set block_concrete_blue_border nearest_neighbor true
+set block_concrete_blue_diag nearest_neighbor true
+set block_concrete_blue_x nearest_neighbor true
+set block_concrete_purple_border nearest_neighbor true
+set block_concrete_purple_x nearest_neighbor true
+set block_concrete_brown_border nearest_neighbor true
+set block_concrete_brown_yellow_border nearest_neighbor true
+set block_concrete_brown_orange_border nearest_neighbor true
+set block_concrete_brown_red_border nearest_neighbor true
+set block_tutorial nearest_neighbor true
+set block_dark_concrete_white_border nearest_neighbor true
+set block_dark_concrete_blue_border nearest_neighbor true
+set block_dark_concrete_green_border nearest_neighbor true
+set block_dark_concrete_red_border nearest_neighbor true
+set block_dark_concrete_orange_border nearest_neighbor true
+set block_dark_concrete_purple_border nearest_neighbor true
+set block_black nearest_neighbor true
+set block_green_black_striped nearest_neighbor true
+set block_yellow_black_striped nearest_neighbor true
+set block_red_black_striped nearest_neighbor true
+set block_white_black_striped nearest_neighbor true
+set block_blue_block_striped nearest_neighbor true
+set block_expander nearest_neighbor true
+set block_stopper nearest_neighbor true
+set block_stopper2 nearest_neighbor true
+set block_one_way nearest_neighbor true
+set block_one_way_green nearest_neighbor true
+set block_one_way_red nearest_neighbor true
+set block_in_only nearest_neighbor true
+set block_wrong_way nearest_neighbor true
+set block_door nearest_neighbor true
+set block_door_green nearest_neighbor true
+set block_toll_door nearest_neighbor true
+set block_anti_plug nearest_neighbor true
+set block_info nearest_neighbor true
+set block_map nearest_neighbor true
+set block_light_blue_border nearest_neighbor true
+set block_blue_border nearest_neighbor true
+set block_light_green_border nearest_neighbor true
+set block_bright_green_border nearest_neighbor true
+set block_dark_green_border nearest_neighbor true
+set block_dark_green_x nearest_neighbor true
+set block_blackberry_medium nearest_neighbor true
+set block_blackberry_large nearest_neighbor true
+set block_raspberry nearest_neighbor true
+set block_ying_pattern nearest_neighbor true
+set block_ying2_pattern nearest_neighbor true
+set block_high_voltage nearest_neighbor true
+set block_disco nearest_neighbor true
+set block_white_box nearest_neighbor true
+set block_box_paper nearest_neighbor true
+set block_box_cardboard nearest_neighbor true
+set block_box_steel nearest_neighbor true
+set block_box_wood nearest_neighbor true
+set block_deco1 nearest_neighbor true
+set block_deco1_green1 nearest_neighbor true
+set block_deco1_green2 nearest_neighbor true
+set block_deco1_blue1 nearest_neighbor true
+set block_deco1_purple1 nearest_neighbor true
+set block_deco1_purple2 nearest_neighbor true
+set block_deco1_yellow1 nearest_neighbor true
+set block_mushroom nearest_neighbor true
+set block_mushroom_blue nearest_neighbor true
+set block_mushroom_black nearest_neighbor true
+set block_mushroom_yellow nearest_neighbor true
+set block_mushroom_red nearest_neighbor true
+set block_toadstool nearest_neighbor true
+set block_keiths nearest_neighbor true
+set block_belle_rosette nearest_neighbor true
+set block_happy_land nearest_neighbor true
+set block_maze nearest_neighbor true
+set block_concrete_red_green_border nearest_neighbor true
+set block_infinity_green nearest_neighbor true
+set block_infinity_yellow nearest_neighbor true
+set block_infinity_red nearest_neighbor true
+set block_i1_green nearest_neighbor true
+set block_i1_red nearest_neighbor true
+set block_i2_green nearest_neighbor true
+set block_i2_yellow nearest_neighbor true
+set block_i2_red nearest_neighbor true
+set block_i3_green nearest_neighbor true
+set block_i3_yellow nearest_neighbor true
+set block_pink nearest_neighbor true
+set block_blue nearest_neighbor true
+set block_rainbow nearest_neighbor true
+set block_mylantis nearest_neighbor true
+set block_concrete_red_0 nearest_neighbor true
+set block_concrete_red_1 nearest_neighbor true
+set block_lighthouse nearest_neighbor true
+set block_moon_alpha nearest_neighbor true
+set block_moon_beta nearest_neighbor true
+set block_moon_gamma nearest_neighbor true
+set block_moon_tau nearest_neighbor true
+set block_moon_tau_secret nearest_neighbor true
+set block_moon_fire_rate nearest_neighbor true
+set block_moon_ice nearest_neighbor true
+set block_tau_caves nearest_neighbor true
+set block_mylantis_customs nearest_neighbor true
+set block_laser_genesis nearest_neighbor true
+set block_laser_fort_small nearest_neighbor true
+set block_oak_tree nearest_neighbor true
+set block_richmond nearest_neighbor true
+set block_jericho nearest_neighbor true
+set block_huntington nearest_neighbor true
+set block_williston nearest_neighbor true
+set block_bristol nearest_neighbor true
+set block_montreal nearest_neighbor true
+set block_toronto nearest_neighbor true
+set block_danville_above nearest_neighbor true
+set block_danville_below nearest_neighbor true
+set block_hinesburg nearest_neighbor true
+set block_colchester nearest_neighbor true
+set block_denver nearest_neighbor true
+set block_essex nearest_neighbor true
+set block_burlington nearest_neighbor true
+set block_planet_small_minigun nearest_neighbor true
+set block_planet_clay nearest_neighbor true
+set block_gato_light_blue nearest_neighbor true
+set block_gato_yellow nearest_neighbor true
+set block_gato_green nearest_neighbor true
+set block_gato_purple nearest_neighbor true
+set block_num_1 nearest_neighbor true
+set block_num_2 nearest_neighbor true
+set block_num_3 nearest_neighbor true
+set block_num_4 nearest_neighbor true
+set block_num_5 nearest_neighbor true
+set block_num_6 nearest_neighbor true
+set block_num_7 nearest_neighbor true
+set block_num_8 nearest_neighbor true
+set block_num_9 nearest_neighbor true
+set block_num_0 nearest_neighbor true
+set block_letter_a nearest_neighbor true
+set block_letter_b nearest_neighbor true
+set block_letter_c nearest_neighbor true
+set block_letter_d nearest_neighbor true
+set block_letter_e nearest_neighbor true
+set block_letter_f nearest_neighbor true
+set block_letter_g nearest_neighbor true
+set block_letter_h nearest_neighbor true
+set block_letter_i nearest_neighbor true
+set block_letter_j nearest_neighbor true
+set block_letter_k nearest_neighbor true
+set block_letter_l nearest_neighbor true
+set block_letter_m nearest_neighbor true
+set block_letter_n nearest_neighbor true
+set block_letter_o nearest_neighbor true
+set block_letter_p nearest_neighbor true
+set block_letter_q nearest_neighbor true
+set block_letter_r nearest_neighbor true
+set block_letter_s nearest_neighbor true
+set block_letter_t nearest_neighbor true
+set block_letter_u nearest_neighbor true
+set block_letter_v nearest_neighbor true
+set block_letter_w nearest_neighbor true
+set block_letter_x nearest_neighbor true
+set block_letter_y nearest_neighbor true
+set block_letter_z nearest_neighbor true
+set block_sponge_pure nearest_neighbor true
+set block_sponge_alpha nearest_neighbor true
+set block_sponge_beta nearest_neighbor true
+set block_sponge_deep nearest_neighbor true
+set block_spiral nearest_neighbor true
+set block_omega nearest_neighbor true
+set block_exit nearest_neighbor true
+set block_ice_cube nearest_neighbor true
+set block_ice_cube_hard nearest_neighbor true
+set block_medium_gold_asteroid nearest_neighbor true
+set block_dollar nearest_neighbor true
+set block_cent nearest_neighbor true
+set block_high_gold_asteroid nearest_neighbor true
+set block_lockbox nearest_neighbor true
+set block_lockbox_grand nearest_neighbor true
+set block_sun nearest_neighbor true
+set block_ammo nearest_neighbor true
+set block_hell nearest_neighbor true
+set block_upgrade_station nearest_neighbor true
+set block_bedroom nearest_neighbor true
+set block_cube_1 nearest_neighbor true
+set block_you_are_here nearest_neighbor true
+set block_radioactive nearest_neighbor true
+set block_tweedle_dum_air nearest_neighbor true
+set block_blue_bubble nearest_neighbor true
+set block_museum nearest_neighbor true
+set block_tangerine nearest_neighbor true
+set block_pumpkin nearest_neighbor true
+set block_marble_1 nearest_neighbor true
+set block_marble_2 nearest_neighbor true
+set block_marble_3 nearest_neighbor true
+set block_marble_4 nearest_neighbor true
+set block_weapon_mode nearest_neighbor true
+set block_arcade_enter nearest_neighbor true
+set block_arcade_exit nearest_neighbor true
+set block_arcade_shut nearest_neighbor true
+set block_red_heart_black_back nearest_neighbor true
+set block_iccc nearest_neighbor true
+set block_sponge nearest_neighbor true
+set block_key_yellow nearest_neighbor true
+set block_key_blue nearest_neighbor true
+set block_key_green nearest_neighbor true
+set block_glass nearest_neighbor true
+set block_dan_house_siding nearest_neighbor true
+set block_dan_house_kitchen nearest_neighbor true
+set block_dan_house_thin_wood_floor nearest_neighbor true
+set block_dan_house_thick_wood_floor nearest_neighbor true
+set block_dan_house_window nearest_neighbor true
+set block_dan_house_red_tile nearest_neighbor true
+set block_dan_house_darkroom nearest_neighbor true
+set block_dan_house_bath_down nearest_neighbor true
+set block_dan_house_dan_room nearest_neighbor true
+set block_dan_house_hall nearest_neighbor true
+set block_dan_house_library nearest_neighbor true
+set block_dan_house_bath_up nearest_neighbor true
+set block_dan_house_furnace nearest_neighbor true
+set block_dan_house_ceiling nearest_neighbor true
+set block_dan_house_jungle_room nearest_neighbor true
+set block_dan_house_joan nearest_neighbor true
+set block_dan_house_bruce nearest_neighbor true
+set inf2_block_gun nearest_neighbor true
+set inf2_get_type_gun nearest_neighbor true
+set inf2_ladder_gun nearest_neighbor true
+set block_side_ladder nearest_neighbor true
+set MonsterKeyYellow nearest_neighbor true
+set MonsterKeyBlue nearest_neighbor true
+set MonsterKeyGreen nearest_neighbor true
+set MonsterKeyUniverse nearest_neighbor true
+set MonsterKeyLaserGenesis nearest_neighbor true
+set MonsterKeyDansHouse nearest_neighbor true
+set WhiteBoxDevice nearest_neighbor true
+set YellowBoxDevice nearest_neighbor true
+set Drop nearest_neighbor true
