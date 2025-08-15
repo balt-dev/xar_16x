@@ -318,3 +318,7 @@ Icons/icon_shield: blank 249fde, shield 00000080, border 000000
 Icons/icon_shield_grey: blank 8b93af, shield 00000080, border 000000
 Icons/icon_xp_back: blank 000000
 Icons/icon_xp: blank ffc400
+
+MEnts/drop: blank 59c135, sixdots ffc400, border 000000, t_drop 000000
+MEnts/white_box_device: blank ffffff, border 000000, rings 000000
+MEnts/yellow_box_device: blank ffc400, border 000000, rings 000000

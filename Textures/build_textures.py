@@ -1,8 +1,12 @@
 import shutil
 import os
 from PIL import Image, ImageColor, ImageChops
+import re 
 
 def main():
+  with open("todo.png", "rb") as todo:
+    todo_data = todo.read()
+
   blocks = []
   with open("layers.txt", "r") as f:
     for line in f.readlines():
@@ -32,8 +36,12 @@ def main():
         line = line.strip()
         if line == "": continue
         if line.startswith("#"): continue
-        name, _ = line.split(" ", 1)
+        print(line)
+        name, _, path = re.split(r"\s+", line, maxsplit=2)
         if name == "set": continue
+        with open(path, "rb") as f:
+          if f.read() == todo_data:
+            continue
         l.append(name)
         fw.write(line + "\n")
       for name in l:

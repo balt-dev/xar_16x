@@ -1,2 +1,0 @@
-These are currently not used by the program,
-but they are used by Steam.
