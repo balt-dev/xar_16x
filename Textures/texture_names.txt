@@ -19,6 +19,7 @@ icon_xp_5x                  _ Icons/icon_xp_5x.png
 icon_hive_attack_bar        _ Icons/icon_hive_attack_bar.png
 icon_hive_attack_bar_back   _ Icons/icon_hive_attack_bar_back.png
 icon_damage_5x              _ Icons/icon_damage_5x.png
+icon_invun                  _ Icons/icon_invun.png
 icon_hardcore               _ Icons/icon_hardcore.png
 icon_pacifist               _ Icons/icon_pacifist.png
 icon_skull                  _ Icons/skull_and_cross.png
@@ -447,6 +448,7 @@ set icon_xp_5x nearest_neighbor true
 set icon_hive_attack_bar nearest_neighbor true
 set icon_hive_attack_bar_back nearest_neighbor true
 set icon_damage_5x nearest_neighbor true
+set icon_invun nearest_neighbor true
 set icon_hardcore nearest_neighbor true
 set icon_pacifist nearest_neighbor true
 set icon_skull nearest_neighbor true

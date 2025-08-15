@@ -308,6 +308,7 @@ Icons/icon_hive_attack_bar: blank 9cdb43
 Icons/icon_hive_attack_bar_back: blank df3e23
 
 Icons/icon_health: blank ffffff, border 000000, plus 59c135
+Icons/icon_invun: blank 000000, border ffffff, plus ffffff
 Icons/icon_health_blue: blank 285cc4, border 000000, plus ffffff
 Icons/icon_health_dark_blue: blank 793a80, border 000000, plus ffffff
 Icons/icon_health_red: blank df3e23, border 000000, plus ffffff
