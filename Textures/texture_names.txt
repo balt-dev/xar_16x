@@ -28,7 +28,25 @@ icon_save                   _ Icons/icon_save.png
 icon_arcade                 _ Icons/icon_arcade.png
 icon_shrink_warning         _ Icons/icon_shrink_warning.png
 icon_yin_yang_warning       a Icons/icon_yin_yang_small.png
+icon_easy_2               _ Icons/Difficulty/icon_easy_2.png
+icon_easy_2_once          _ Icons/Difficulty/icon_easy_2_once.png
+icon_easy_1               _ Icons/Difficulty/icon_easy_1.png
+icon_easy_1_once          _ Icons/Difficulty/icon_easy_1_once.png
+icon_normal               _ Icons/Difficulty/icon_normal.png
+icon_normal_once          _ Icons/Difficulty/icon_normal_once.png
+icon_hard_1               _ Icons/Difficulty/icon_hard_1.png
+icon_hard_1_once          _ Icons/Difficulty/icon_hard_1_once.png
+icon_hard_2               _ Icons/Difficulty/icon_hard_2.png
+icon_hard_2_once          _ Icons/Difficulty/icon_hard_2_once.png
+icon_hard_3               _ Icons/Difficulty/icon_hard_3.png
+icon_hard_3_once          _ Icons/Difficulty/icon_hard_3_once.png
+icon_hard_4               _ Icons/Difficulty/icon_hard_4.png
+icon_hard_4_once          _ Icons/Difficulty/icon_hard_4_once.png
+icon_custom               _ Icons/Difficulty/icon_custom.png
 icon_quasar_drive         _ Icons/icon_quasar_drive.png
+icon_db_1                 _ Icons/Engine/db_1.png
+icon_db_2                 _ Icons/Engine/db_2.png
+icon_db_1_and_2           _ Icons/Engine/db_1_and_2.png
 ammo_gun0           _ Ammo/gun0.png
 ammo_gun0_grey      _ Ammo/grey_gun0.png
 ammo_gun1           _ Ammo/gun1.png
@@ -399,17 +417,6 @@ block_dan_house_joan               _ Blocks/DanHouse/block_dan_house_joan.png
 block_dan_house_bruce              _ Blocks/DanHouse/block_dan_house_bruce.png
 inf2_block_gun                     _ Blocks/block_concrete_border.png
 inf2_get_type_gun                  _ Blocks/block_info.png
-inf2_ladder_gun                    _ Inf2/block_side_ladder.png
-block_side_ladder                  _ Inf2/block_side_ladder.png
-MonsterKeyYellow                   _ MEnts/Key/monster_key_yellow.png
-MonsterKeyBlue                     _ MEnts/Key/monster_key_blue.png
-MonsterKeyGreen                    _ MEnts/Key/monster_key_green.png
-MonsterKeyUniverse                 _ MEnts/Key/monster_key_universe.png
-MonsterKeyLaserGenesis             _ MEnts/Key/monster_key_laser_genesis.png
-MonsterKeyDansHouse                _ MEnts/Key/monster_key_dans_house.png
-WhiteBoxDevice                     _ MEnts/white_box_device.png
-YellowBoxDevice                    _ MEnts/yellow_box_device.png
-Drop                               _ MEnts/drop.png
 set crosshair nearest_neighbor true
 set icon_shield nearest_neighbor true
 set icon_shield_grey nearest_neighbor true
@@ -440,7 +447,25 @@ set icon_save nearest_neighbor true
 set icon_arcade nearest_neighbor true
 set icon_shrink_warning nearest_neighbor true
 set icon_yin_yang_warning nearest_neighbor true
+set icon_easy_2 nearest_neighbor true
+set icon_easy_2_once nearest_neighbor true
+set icon_easy_1 nearest_neighbor true
+set icon_easy_1_once nearest_neighbor true
+set icon_normal nearest_neighbor true
+set icon_normal_once nearest_neighbor true
+set icon_hard_1 nearest_neighbor true
+set icon_hard_1_once nearest_neighbor true
+set icon_hard_2 nearest_neighbor true
+set icon_hard_2_once nearest_neighbor true
+set icon_hard_3 nearest_neighbor true
+set icon_hard_3_once nearest_neighbor true
+set icon_hard_4 nearest_neighbor true
+set icon_hard_4_once nearest_neighbor true
+set icon_custom nearest_neighbor true
 set icon_quasar_drive nearest_neighbor true
+set icon_db_1 nearest_neighbor true
+set icon_db_2 nearest_neighbor true
+set icon_db_1_and_2 nearest_neighbor true
 set ammo_gun0 nearest_neighbor true
 set ammo_gun0_grey nearest_neighbor true
 set ammo_gun1 nearest_neighbor true
@@ -811,14 +836,3 @@ set block_dan_house_joan nearest_neighbor true
 set block_dan_house_bruce nearest_neighbor true
 set inf2_block_gun nearest_neighbor true
 set inf2_get_type_gun nearest_neighbor true
-set inf2_ladder_gun nearest_neighbor true
-set block_side_ladder nearest_neighbor true
-set MonsterKeyYellow nearest_neighbor true
-set MonsterKeyBlue nearest_neighbor true
-set MonsterKeyGreen nearest_neighbor true
-set MonsterKeyUniverse nearest_neighbor true
-set MonsterKeyLaserGenesis nearest_neighbor true
-set MonsterKeyDansHouse nearest_neighbor true
-set WhiteBoxDevice nearest_neighbor true
-set YellowBoxDevice nearest_neighbor true
-set Drop nearest_neighbor true
