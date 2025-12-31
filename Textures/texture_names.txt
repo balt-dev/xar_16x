@@ -11,8 +11,6 @@ icon_armor_two              _ Icons/icon_armor_two.png
 icon_armor_three            _ Icons/icon_armor_three.png
 icon_gold                   _ Icons/icon_gold.png
 icon_markers                _ Icons/icon_markers.png
-icon_rocket                 _ Icons/icon_rocket.png
-icon_brake                  _ Icons/icon_brake.png
 icon_xp                     _ Icons/icon_xp.png
 icon_xp_back                _ Icons/icon_xp_back.png
 icon_xp_5x                  _ Icons/icon_xp_5x.png
@@ -428,8 +426,6 @@ set icon_armor_two nearest_neighbor true
 set icon_armor_three nearest_neighbor true
 set icon_gold nearest_neighbor true
 set icon_markers nearest_neighbor true
-set icon_rocket nearest_neighbor true
-set icon_brake nearest_neighbor true
 set icon_xp nearest_neighbor true
 set icon_xp_back nearest_neighbor true
 set icon_xp_5x nearest_neighbor true
